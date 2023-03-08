@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body {
+    background-image: linear-gradient(#E2B0FF, #1111, #ffb6c1 , #77193e);
+}
+
+p {
+    text-align: justify;
+    text-indent: 50px;
+}
+
+figure.foto-legenda img {
+    border: 8px solid #9F44D3;
+    color: #000;
+    -webkit-text-stroke: 1px #FFF;
+     text-shadow: 1px #FFF;
+}
